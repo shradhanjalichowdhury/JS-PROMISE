@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(5, 127, 249);
+    font-style: italic;
+    border-style: groove;
+}
+h1{
+    text-align: center;
+    color: rgb(193, 32, 59);
+}
+p{
+    margin-left: 150px;
+    font-size: 28px;
+}
+h2{
+    margin-left: 120px;
+}
